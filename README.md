@@ -1,1 +1,1 @@
-# Projeto de um jogo da cobrinha feito em (Html, Css E JavaScript).
+# Projeto de um Jogo da Cobrinha Feito Por Mim Utilizando Html, Css E JavaScript.
